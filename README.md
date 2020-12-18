@@ -10,7 +10,8 @@ Once we get a good fit, we will use this model to predict the monetary value of 
 A model like this would be very valuable for a real state agent who could make use of the information provided on daily basis.
 
 This project uses the following software and Python libraries:
-Anaconda Navigator is needed to run and execute a Jupyter Notebook
+Anaconda Navigator is needed to run and execute a Jupyter Notebook.
+
 Python
 NumPy
 pandas
